@@ -15,7 +15,7 @@ API REST para gerenciamento de catálogo de produtos desenvolvida com **Django**
 
 ## Tecnologias
 
-- Python 3.x
+- Python 3
 - Django
 - Django REST Framework
 - django-filter
