@@ -1,4 +1,4 @@
-# Catálogo de Produtos - API REST com Django
+# Catálogo de Produtos - API REST
 
 API REST para gerenciamento de catálogo de produtos com autenticação JWT, desenvolvida com **Django** e **Django REST Framework**.
 
