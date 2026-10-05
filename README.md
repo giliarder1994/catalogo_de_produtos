@@ -174,4 +174,3 @@ catalogo_produtos/
 ## Autor
 
 Desenvolvido por **Giliarde**
-```
